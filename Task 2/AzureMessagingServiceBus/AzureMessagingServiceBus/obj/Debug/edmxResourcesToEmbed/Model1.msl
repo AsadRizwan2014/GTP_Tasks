@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AzureModelStoreContainer" CdmEntityContainer="AzureEntities1">
+    <EntitySetMapping Name="AzureMessageLogs">
+      <EntityTypeMapping TypeName="AzureModel.AzureMessageLog">
+        <MappingFragment StoreEntitySet="AzureMessageLog">
+          <ScalarProperty Name="MessageId" ColumnName="MessageId" />
+          <ScalarProperty Name="SenderId" ColumnName="SenderId" />
+          <ScalarProperty Name="CreatedTime" ColumnName="CreatedTime" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Payload" ColumnName="Payload" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIXBll4V4KAs7ewNiBH09MfUbKtdyVVRzxGAmxNhkQQjwVt578kMV/aFjh7+/g+2Eaz56surJogK03W2kU0Ezg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asadr\\source\\repos\\repos\\Authentication\\Authentication\\Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asadr\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\7.0.5\\microsoft.aspnetcore.authentication.google.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

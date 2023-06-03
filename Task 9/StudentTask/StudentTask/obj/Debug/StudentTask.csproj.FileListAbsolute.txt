@@ -1,0 +1,15 @@
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\StudentTask.exe.config
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\StudentTask.exe
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\StudentTask.pdb
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\EntityFramework.dll
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\EntityFramework.xml
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\obj\Debug\StudentTask.csproj.AssemblyReference.cache
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\obj\Debug\StudentTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\obj\Debug\StudentTask.csproj.CoreCompileInputs.cache
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\obj\Debug\StudentTask.csproj.CopyComplete
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\obj\Debug\StudentTask.exe
+C:\Users\Asad.Rizwan\source\repos\StudentTask\StudentTask\obj\Debug\StudentTask.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MessageLogModelStoreContainer" CdmEntityContainer="MessageLogEntities">
+    <EntitySetMapping Name="msglogs">
+      <EntityTypeMapping TypeName="MessageLogModel.msglog">
+        <MappingFragment StoreEntitySet="msglog">
+          <ScalarProperty Name="MessageID" ColumnName="MessageID" />
+          <ScalarProperty Name="Message_Log" ColumnName="Message_Log" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

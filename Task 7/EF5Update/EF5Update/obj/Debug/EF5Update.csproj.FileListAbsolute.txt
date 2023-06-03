@@ -1,0 +1,13 @@
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\bin\Debug\EF5Update.exe.config
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\bin\Debug\EF5Update.exe
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\bin\Debug\EF5Update.pdb
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\bin\Debug\EntityFramework.dll
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\bin\Debug\EntityFramework.xml
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\obj\Debug\EF5Update.csproj.AssemblyReference.cache
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\obj\Debug\EF5Update.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\obj\Debug\EF5Update.csproj.CoreCompileInputs.cache
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\obj\Debug\EF5Update.csproj.CopyComplete
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\obj\Debug\EF5Update.exe
+C:\Users\Asad.Rizwan\source\repos\EF5Update\EF5Update\obj\Debug\EF5Update.pdb

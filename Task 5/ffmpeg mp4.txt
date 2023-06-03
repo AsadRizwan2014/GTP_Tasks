@@ -1,0 +1,19 @@
+ffmpeg -i input.mp4 -vf "scale=3840:2160" -c:v libx264 -preset slow -crf 18 -c:a copy output_2160p.mp4 // 4k
+ffmpeg -i input.mp4 -vf "scale=2560:1440" -c:v libx264 -preset slow -crf 18 -c:a copy output_1440p.mp4 // 1440p
+ffmpeg -i input.mp4 -vf "scale=1920:1080" -c:v libx264 -preset slow -crf 18 -c:a copy output_1080p.mp4 // 1080p
+ffmpeg -i input.mp4 -vf "scale=1280:720" -c:v libx264 -preset slow -crf 18 -c:a copy output_720p.mp4   // 720 p
+
+
+-i = used to get the the input file by name
+
+-vf = is video filter that we use to change the resolution of the video
+
+-c:v libx264 = This specifies the video codec to be used for encoding the video
+
+-preset slow = This option sets the encoding preset. The "slow" preset is chosen to prioritize better video quality.
+
+-crf 18 = constant rate factor
+
+-c:a copy = for getting the same audio quality
+
+output_xxxp.mp4 = specifies name of the output file
